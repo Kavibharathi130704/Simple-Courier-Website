@@ -13,7 +13,7 @@
 <form action="expresscont" method="post">
 
 <center>
-      <h1 style='margin:50px;'>Local Delivery</h1>
+      <h1 style='margin:50px;'>Express Delivery</h1>
       
       <h3>Overnight Shipping</h3>
       <p>Reliable overnight shipping for urgent deliveries.</p></p>
